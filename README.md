@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bandicow
-- 👀 I’m interested in 🎮Gaming!!
+- 👀 I’m interested in 🎮Gaming && 🍔Cooking!
 - 🌱 I’m currently learning Java Script && react!
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... 
